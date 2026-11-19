@@ -12,7 +12,7 @@ To create a 3D model from given orthographic projection.
 
 ## PROCEDURE:
 Step 1:
-1.Select the new design and select the create to create new drawing on the top side.
+1.Select the new design and select the create to create new drawing on the top side..
 2. Draw a 11mm line randomly near the centre.
 3. <img width="1920" height="1080" alt="Screenshot 2026-11-19 213851" src="https://github.com/user-attachments/assets/b83998e5-325c-4664-b52a-4521a25c1906" />
 4. Then draw the following lengths mentioned in the picture.
