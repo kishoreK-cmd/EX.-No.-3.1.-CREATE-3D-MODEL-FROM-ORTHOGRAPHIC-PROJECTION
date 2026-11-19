@@ -11,36 +11,49 @@ To create a 3D model from given orthographic projection.
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+Step 1:
+1.Select the new design and select the create to create new drawing on the top side.
+2. Draw a 11mm line randomly near the centre.
+3. <img width="1920" height="1080" alt="Screenshot 2026-11-19 213851" src="https://github.com/user-attachments/assets/b83998e5-325c-4664-b52a-4521a25c1906" />
+4. Then draw the following lengths mentioned in the picture.
+5. <img width="1920" height="1080" alt="Screenshot 2026-11-19 214235" src="https://github.com/user-attachments/assets/d0b91ed2-8a25-4d41-a019-f73dd62a15ba" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+Step 2:
+1.Give finish sketch and extrude it upto 32mm.
+2. <img width="1920" height="1080" alt="Screenshot 2026-11-19 214513" src="https://github.com/user-attachments/assets/eb1c748b-1906-4aa6-98cb-9b8fec566795" />
+3.Then draw a circle of 18mm on the right side of the diagram.
+4. <img width="1920" height="1080" alt="Screenshot 2026-11-19 215105" src="https://github.com/user-attachments/assets/6c75eeb6-005f-4c8b-8692-034c4c5c2e10" />
+5. Then extrude that circle to 32mm.
+6. <img width="1920" height="1080" alt="Screenshot 2026-11-19 215206" src="https://github.com/user-attachments/assets/d643f606-d3dd-4452-bdbf-288013abb9f0" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
 
-5.	Use inspect feature to measure the dimensions of sketch.
+Step 3:
+1. Then draw a 16mm circle on the front side of that diagram and select the sketch dimension from the circle to the right line and give 36mm dimension.
+2. <img width="1920" height="1080" alt="Screenshot 2026-11-19 215538" src="https://github.com/user-attachments/assets/366f984e-5463-472c-bd6b-c9537870b988" />
+3. Then extrude it on opposite side to make the whole on the other side.
+4. <img width="1920" height="1080" alt="Screenshot 2026-11-19 215648" src="https://github.com/user-attachments/assets/0c3d5c23-62b8-4cc1-aadb-b336d6c3e086" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+Step 4:
+1. Then give fillet option and select the four corners and give 16mm.
+2. <img width="1920" height="1080" alt="Screenshot 2026-11-19 215737" src="https://github.com/user-attachments/assets/e43bb214-9dce-4c8b-883f-9aa702a16bf9" />
+3. <img width="1920" height="1080" alt="Screenshot 2026-11-19 215929" src="https://github.com/user-attachments/assets/48071acd-acc0-4aed-8088-ea9cd797c7c8" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
 
-7.	Use extrude option to convert 3D model from sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
 
-8.	After finishing the model convert to drawing sheet per  ISO standard.
 
-![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
 
-## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
+
+
 
 ## OUTPUT:
+<img width="1920" height="1080" alt="Screenshot 2026-11-19 215929" src="https://github.com/user-attachments/assets/80d61209-3f35-4476-a8ad-9145766db20d" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-19 215954" src="https://github.com/user-attachments/assets/20a3dd74-5fa8-47f1-af83-0d0ce1a4af34" />
+
+
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
